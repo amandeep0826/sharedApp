@@ -1,6 +1,5 @@
 import React from 'react';
-import {StyleSheet, Text, View, Image, StatusBar} from 'react-native';
-import {primarybackgroundColorWhite} from '../../assets/colors';
+import {Image, Text, View} from 'react-native';
 import {backgroundColor} from '../../globalStyles/commonStyles';
 import {styles} from './style';
 
@@ -14,7 +13,7 @@ const SplashScreen = ({navigation}) => {
       <View style={styles.splashLogoContainer}>
         <Image
           style={styles.splashLogo}
-          source={require('../../assets/splash_logo.png')}
+          source={require('../../assets/images/splash_logo.png')}
         />
       </View>
 

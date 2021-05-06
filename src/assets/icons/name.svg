@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="name" transform="translate(-332 -199)">
+    <g id="keyboard_arrow_down-24px" transform="translate(332 199)">
+      <path id="Path_929" data-name="Path 929" d="M0,0H20V20H0Z" fill="none"/>
+    </g>
+    <g id="person-24px_1_" data-name="person-24px (1)" transform="translate(332 199)">
+      <path id="Path_1431" data-name="Path 1431" d="M0,0H20V20H0Z" fill="none"/>
+      <path id="name_signup" d="M10,10A3,3,0,1,0,7,7,3,3,0,0,0,10,10Zm0,1.5c-2,0-6,1.005-6,3V16H16V14.5C16,12.505,12,11.5,10,11.5Z" fill="#14ac63"/>
+    </g>
+  </g>
+</svg>

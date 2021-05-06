@@ -1,0 +1,5 @@
+<svg id="gallery" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_13582" data-name="Path 13582" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Path_13583" data-name="Path 13583" d="M19,5H5V19H19ZM6,17l3-3.86,2.14,2.58,3-3.87L18,17Z" opacity="0.14"/>
+  <path id="Path_13584" data-name="Path 13584" d="M5,21H19a2.006,2.006,0,0,0,2-2V5a2.006,2.006,0,0,0-2-2H5A2.006,2.006,0,0,0,3,5V19A2.006,2.006,0,0,0,5,21ZM5,5H19V19H5Zm6.14,10.72L9,13.14,6,17H18l-3.86-5.14Z" fill="#fff"/>
+</svg>
