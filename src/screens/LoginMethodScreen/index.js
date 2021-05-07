@@ -40,7 +40,11 @@ const LoginMethodScreen = ({navigation}) => {
           <Text style={styles.alreadyHaveAccountText}>
             Already have an account?{' '}
           </Text>
-          <TouchableOpacity activeOpacity={0.7}>
+          <TouchableOpacity
+            activeOpacity={0.7}
+            onPress={() => {
+              navigation.navigate('LoginScreen');
+            }}>
             <Text style={styles.signInText}>Sign In</Text>
           </TouchableOpacity>
         </View>

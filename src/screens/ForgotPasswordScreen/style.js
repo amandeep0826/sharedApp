@@ -10,30 +10,14 @@ import {
 import {MontserratMedium, MontserratSemiBold} from '../../assets/fonts/font';
 
 export const styles = StyleSheet.create({
-  loginLogo: {
-    width: 120,
-    height: 120,
-    alignSelf: 'center',
-    marginTop: 50,
-  },
-  continueWithPhoneText: {
-    fontSize: 18,
-    fontFamily: MontserratSemiBold,
-    color: primaryBlack,
-    marginTop: 40,
-  },
-  letsStartText: {
-    fontFamily: MontserratMedium,
-    fontSize: 14,
-    color: fadedBlackLight,
-    marginTop: 10,
-  },
-  countryCodePickerContainer: {
+  inputBox: {
     borderWidth: 1,
     borderColor: borderColorLightGray,
     marginTop: 20,
+    paddingVertical: 12,
+    paddingStart: 20,
   },
-  continueButtonContainer: {
+  resetButtonContainer: {
     backgroundColor: primaryGreen,
     height: 42,
     paddingVertical: 12,
@@ -44,10 +28,22 @@ export const styles = StyleSheet.create({
     shadowColor: shadowColorGreen,
     marginTop: 24,
   },
-  continueButtonText: {
+  resetInButtonText: {
     textAlign: 'center',
     fontSize: 14,
     fontFamily: MontserratSemiBold,
     color: primaryWhite,
+  },
+  forgotPasswordText: {
+    fontFamily: MontserratSemiBold,
+    fontSize: 20,
+    color: primaryBlack,
+    marginTop: 24,
+  },
+  enterEmailText: {
+    fontFamily: MontserratMedium,
+    color: fadedBlackLight,
+    marginTop: 8,
+    fontSize: 14,
   },
 });
